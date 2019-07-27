@@ -3,9 +3,9 @@
 <suite name="Suite" parallel="none">
 	<test name="Test">
 		<classes>
-			<class name="testcases.TC_001"/>
-			<class name="testcases.TC_001"/>
-			<class name="testcases.TC_001"/>
+			<class name="test.resources.TC_001"/>
+			<class name="test.resources.TC_001"/>
+			<class name="test.resources.TC_001"/>
 		</classes>
 	</test>
 </suite>
